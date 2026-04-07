@@ -6,8 +6,8 @@
 :video_game: Game dev <br>
 :globe_with_meridians: Web dev <br>
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tibevdbrande@gmail.com)
 [![Itch.io](https://img.shields.io/badge/Itch.io-000000?logo=itch.io&logoColor=white)](https://tibe-dev.itch.io/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tibevdbrande@gmail.com)
 
 # &lt;/LANGUAGES&gt;
 
