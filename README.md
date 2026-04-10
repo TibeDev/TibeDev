@@ -3,8 +3,6 @@
 :bust_in_silhouette: Tibe Van den Brande <br>
 :hourglass_flowing_sand: 17 y/o <br>
 :mortar_board: IT student <br>
-:video_game: Game dev <br>
-:globe_with_meridians: Web dev <br>
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-000000?logo=itch.io&logoColor=white)](https://tibe-dev.itch.io/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tibevdbrande@gmail.com)
