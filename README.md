@@ -4,8 +4,7 @@
 :hourglass_flowing_sand: 17 y/o <br>
 :mortar_board: IT student <br>
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-000000?logo=itch.io&logoColor=white)](https://tibe-dev.itch.io/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tibevdbrande@gmail.com)
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko-fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tibevdb#checkout) <br>
 
 # &lt;/LANGUAGES&gt;
 
